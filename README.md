@@ -4,35 +4,14 @@
 <br>
 <br>
 
-### 💻 Tecnologias e meu nível de domínio (estilo gamer)
-<p align="center">
-  <b>Node.js:</b> 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 70% <!-- verde #339933 -->
-  <br>
-  <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛ 70% <!-- laranja #E34C26 -->
-  <br>
-  <b>CSS3:</b> 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ 60% <!-- azul #2965F1 -->
-  <br>
-  <b>MySQL:</b> 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛ 50% <!-- azul #00758F -->
-  <br>
-  <b>Python:</b> 🟨🟨⬛⬛⬛⬛⬛⬛⬛⬛ 20% <!-- amarelo #FFD43B -->
-</p>
-
-<br>
-
----
-<br>
-
 ### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
-<br>
-
 ---
 
-<br>
 
 ### 💻 Tecnologias mais utilizadas / que estou aprendendo no momento
 <p align="center">
@@ -43,10 +22,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Pretendo relembrar e praticar Python" />
 </p>
 
-<br>
-
 ---
 
+### 💻 Tecnologias e meu nível de domínio 
+<p align="center">
+  <b>Node.js:</b> 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 70% 
+  <br>
+  <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛ 70% 
+  <br>
+  <b>CSS3:</b> 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ 60% 
+  <br>
+  <b>MySQL:</b> 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛ 50% 
+  <br>
+  <b>Python:</b> 🟨🟨⬛⬛⬛⬛⬛⬛⬛⬛ 20% 
+  
+</p>
+
+---
 <br>
 
 ### ✨ Sobre mim
