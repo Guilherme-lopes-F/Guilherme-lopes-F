@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou João Guilherme!</h1>
 <p align="center">Apaixonado por programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
----
+
 ### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
