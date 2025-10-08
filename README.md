@@ -4,12 +4,33 @@
 ---
 ### 💻 Tecnologias e meu nível de domínio
 
-<p align="center">
-  <b>Node.js:</b> ▓▓▓▓▓▓▓▓░░ 70%<br>
-  <b>HTML5:</b> ▓▓▓▓▓▓▓░░░ 60%<br>
-  <b>CSS3:</b> ▓▓▓▓▓▓░░░░ 50%<br>
-  <b>MySQL:</b> ▓▓▓▓▓░░░░░ 40%<br>
-  <b>Python:</b> ▓▓░░░░░░░░ 25%
+<p align="center" style="max-width:400px;">
+
+  <b>Node.js</b>
+  <div style="background-color:#ddd; border-radius:10px; width:300px; height:20px; margin:5px auto;">
+    <div style="width:70%; background-color:#339933; height:100%; border-radius:10px;"></div>
+  </div>
+
+  <b>HTML5</b>
+  <div style="background-color:#ddd; border-radius:10px; width:300px; height:20px; margin:5px auto;">
+    <div style="width:60%; background-color:#E34F26; height:100%; border-radius:10px;"></div>
+  </div>
+
+  <b>CSS3</b>
+  <div style="background-color:#ddd; border-radius:10px; width:300px; height:20px; margin:5px auto;">
+    <div style="width:50%; background-color:#1572B6; height:100%; border-radius:10px;"></div>
+  </div>
+
+  <b>MySQL</b>
+  <div style="background-color:#ddd; border-radius:10px; width:300px; height:20px; margin:5px auto;">
+    <div style="width:40%; background-color:#4479A1; height:100%; border-radius:10px;"></div>
+  </div>
+
+  <b>Python</b>
+  <div style="background-color:#ddd; border-radius:10px; width:300px; height:20px; margin:5px auto;">
+    <div style="width:25%; background-color:#3776AB; height:100%; border-radius:10px;"></div>
+  </div>
+
 </p>
 
 ---
