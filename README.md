@@ -11,7 +11,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 
 ### 💻 Tecnologias mais utilizadas / que estou aprendendo no momento
@@ -24,7 +26,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 
 ### ✨ Sobre mim
