@@ -5,11 +5,11 @@
 ### 💻 Tecnologias e meu nível de domínio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Intermediário-yellow" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-Intermediário-orange" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-Intermediário-blue" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-Intermediário-lightblue" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-Iniciante-3776AB" alt="Python"/>
+  <b>Node.js:</b> ▓▓▓▓▓▓▓▓░░ 70%<br>
+  <b>HTML5:</b> ▓▓▓▓▓▓▓░░░ 60%<br>
+  <b>CSS3:</b> ▓▓▓▓▓▓░░░░ 50%<br>
+  <b>MySQL:</b> ▓▓▓▓▓░░░░░ 40%<br>
+  <b>Python:</b> ▓▓░░░░░░░░ 25%
 </p>
 
 ---
