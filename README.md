@@ -2,11 +2,14 @@
 <p align="center">Apaixonado por programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
 ---
+### 💻 Tecnologias e meu nível de domínio
 
-### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
+  <b>Node.js:</b> ![Node.js](https://img.shields.io/badge/Node.js-Iniciante-yellow) &nbsp;
+  <b>HTML5:</b> ![HTML5](https://img.shields.io/badge/HTML5-Intermediário-orange) &nbsp;
+  <b>CSS3:</b> ![CSS3](https://img.shields.io/badge/CSS3-Intermediário-blue) &nbsp;
+  <b>MySQL:</b> ![MySQL](https://img.shields.io/badge/MySQL-Intermediário-lightblue) &nbsp;
+  <b>Python:</b> ![Python](https://img.shields.io/badge/Python-Iniciante-3776AB)
 </p>
 
 ---
