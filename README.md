@@ -10,6 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
+<br>
 ---
 <br>
 
@@ -22,7 +23,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Pretendo relembrar e praticar Python" />
 </p>
 
+<br>
 ---
+<br>
 
 ### ✨ Sobre mim
 <p align="center">
