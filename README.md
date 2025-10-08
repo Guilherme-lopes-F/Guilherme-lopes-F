@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, Me chamo João Guilherme! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" alt="Blaziken" width="60" height="60" style="vertical-align:middle; margin-left:10px;"></h1> 
-<p align="center"> Focado no estudo de programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
+<p align="center"> Focado no estudo de programação e desenvolvimento web </p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
 <br>
 <br>
@@ -26,7 +26,7 @@
 
 ### 💻 Tecnologias e meu nível de domínio 
 <p align="center">
-  <b>Node.js:</b> 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 70% 
+  <b>Node.js:</b> 🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10% 
   <br>
   <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛ 70% 
   <br>
