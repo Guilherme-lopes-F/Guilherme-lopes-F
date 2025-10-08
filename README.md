@@ -5,11 +5,11 @@
 ### 💻 Tecnologias e meu nível de domínio
 
 <p align="center">
-  <b>Node.js:</b> ![Node.js](https://img.shields.io/badge/Node.js-Iniciante-yellow) &nbsp;
-  <b>HTML5:</b> ![HTML5](https://img.shields.io/badge/HTML5-Intermediário-orange) &nbsp;
-  <b>CSS3:</b> ![CSS3](https://img.shields.io/badge/CSS3-Intermediário-blue) &nbsp;
-  <b>MySQL:</b> ![MySQL](https://img.shields.io/badge/MySQL-Intermediário-lightblue) &nbsp;
-  <b>Python:</b> ![Python](https://img.shields.io/badge/Python-Iniciante-3776AB)
+  <img src="https://img.shields.io/badge/Node.js-Intermediário-yellow" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-Intermediário-orange" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Intermediário-blue" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-Intermediário-lightblue" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-Iniciante-3776AB" alt="Python"/>
 </p>
 
 ---
