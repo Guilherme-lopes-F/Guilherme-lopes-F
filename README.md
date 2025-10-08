@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, eu sou João Guilherme!</h1>
 <p align="center">Apaixonado por programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
+<br>
+<br>
 
 ### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
