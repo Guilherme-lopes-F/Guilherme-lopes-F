@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou João Guilherme!</h1>
-<p align="center">Apaixonado por programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
+<h1 align="center"> Olá, Me chamo João Guilherme!</h1>
+ <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" alt="Blaziken" width="60" height="60" style="vertical-align:middle; margin-left:10px;">
+<p align="center"> Focado no estudo de programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
 <br>
 <br>
