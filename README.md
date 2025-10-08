@@ -3,26 +3,14 @@
 
 ---
 
-### ⚙️ Estatísticas do GitHub
+### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-      </td>
-    </tr>
-  </table>
+  <b>Commits:</b> <img src="https://img.shields.io/badge/Commits-350-green"/> &nbsp;
+  <b>Repositórios:</b> <img src="https://img.shields.io/badge/Repositórios-12-blue"/> &nbsp;
+  <b>Linguagens principais:</b> <img src="https://img.shields.io/badge/Node.js-yellow"/> <img src="https://img.shields.io/badge/HTML5-orange"/> <img src="https://img.shields.io/badge/CSS3-blue"/> <img src="https://img.shields.io/badge/MySQL-lightblue"/>
 </p>
-
 ---
 
-### 📍 Contador de visitantes
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Guilherme-lopes-F/count.svg" alt="Número de visitantes"/>
-</p>
 
 ---
 
