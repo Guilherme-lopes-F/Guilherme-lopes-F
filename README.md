@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Awodj!</h1>
+<h1 align="center">👋 Olá, eu sou João Guilherme!</h1>
 <p align="center">Apaixonado por programação e desenvolvimento web | Fã de Pokémon e design criativo</p>
 
 ---
