@@ -4,11 +4,10 @@
 <br>
 <br>
 
-### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=DC143C&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+%7BJoão+Guilherme%7D!;Front-End+Developer+💻;HTML+%7C+CSS+%7C+Handlebars;Node.js+no+Back-End;Sempre+tentando+aprender" />
 </p>
+
 
 ---
 
