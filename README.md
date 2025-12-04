@@ -25,13 +25,13 @@
 
 ### 💻 Tecnologias e meu nível de domínio 
 <p align="center">
-  <b>Node.js:</b> 🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10% 
+  <b>Node.js:</b> 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ 60% 
   <br>
-  <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛ 70% 
+  <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧🟧⬛⬛ 80% 
   <br>
-  <b>CSS3:</b> 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ 60% 
+  <b>CSS3:</b> 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ 70% 
   <br>
-  <b>MySQL:</b> 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛ 50% 
+  <b>MySQL:</b> 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ 70% 
   <br>
   <b>Python:</b> 🟨🟨⬛⬛⬛⬛⬛⬛⬛⬛ 20% 
   
