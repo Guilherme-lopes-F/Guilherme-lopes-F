@@ -10,7 +10,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-lopes-F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-lopes-F&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 </h1>
 ---
